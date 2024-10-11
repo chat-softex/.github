@@ -99,20 +99,47 @@
 
 ## Funcionalidades :video_game:
 
-**Cadastro de Usuários:** :warning:
-  1. Permitir que os usuários se cadastrem na plataforma com informações básicas (nome, email, senha).
+**Cadastro e Gerenciamento de Usuários (Acesso Restrito aos Administradores):** :warning:
+- Descrição: Somente administradores podem cadastrar, atualizar, deletar, listar e buscar usuários.
+- Acesso Exclusivo: Após o login, os administradores têm acesso apenas ao módulo de gerenciamento de usuários, sem acesso aos módulos de projetos e avaliações.
+- Ações Disponíveis:
+  - Cadastrar Usuário: Adicionar novos usuários (avaliadores ou outros administradores) com informações básicas (nome, email, senha).
+  - Atualizar Usuário: Alterar dados dos usuários cadastrados.
+  - Deletar Usuário: Remover usuários do sistema.
+  - Listar Usuários: Visualizar uma lista de todos os usuários cadastrados.
+  - Buscar Usuário: Consultar um usuário específico através do ID ou email.
+- Segurança: As senhas dos usuários são armazenadas de forma segura utilizando criptografia, e o sistema de autenticação utiliza JWT para manter as sessões protegidas.
 
-**Submissão de Projetos:** :warning:
-  1. Permitir que as empresas submetam projetos de inovação, enviando um PDF com os detalhes do projeto para avaliação.
 
-**Avaliação de Projetos:** :warning:
-  1. Realizar avaliações automáticas e manuais dos projetos, com base em critérios como inovação e viabilidade, e gerar feedbacks detalhados.
+**Submissão e Gerenciamento de Projetos (Acesso Restrito aos Avaliadores):** :warning:
+- Descrição: Apenas avaliadores têm acesso para submeter, listar, buscar e gerenciar projetos de inovação.
+- Ações Disponíveis:
+  - Submeter Projetos: Enviar projetos em formato PDF para avaliação, com todos os detalhes necessários.
+  - Atualizar Projetos: Alterar informações de um projeto antes da conclusão da avaliação.
+  - Listar Projetos: Visualizar todos os projetos submetidos para análise.
+  - Buscar Projetos: Consultar um projeto específico através do ID ou título.
+  - Visualizar Status: Monitorar o progresso dos projetos, com detalhes sobre o status atual ('Em avaliação', 'Aprovado', 'Reprovado').
+- Armazenamento Seguro: Os arquivos PDF são criptografados e armazenados no Firebase de forma segura, garantindo a confidencialidade dos dados submetidos.
 
-**Histórico de Avaliações:** :warning:
-  1. Permitir a visualização do histórico de avaliações e status de cada projeto.
 
-**Gerenciamento de Status de Projetos:** :warning:
-  1. Atualizar o status dos projetos entre 'Em avaliação', 'Aprovado' e 'Reprovado'.
+**Avaliação de Projetos (Acesso Restrito aos Avaliadores):** :warning:
+- Descrição: Avaliadores podem realizar avaliações automáticas e manuais dos projetos submetidos, com base em critérios como inovação e viabilidade.
+- Ações Disponíveis:
+  - Avaliação Automática: Utilizar ferramentas de inteligência artificial para gerar relatórios automáticos com classificações e feedbacks detalhados.
+  - Avaliação Manual: Realizar avaliações e emitir comentários adicionais com base na análise humana.
+  - Feedback Detalhado: Gerar relatórios contendo pontos fortes, fracos e recomendações de melhoria para os projetos.
+  - Histórico de Avaliações: Acompanhar todas as avaliações realizadas e as mudanças no status de cada projeto.
+
+**Gerenciamento de Status de Projetos (Acesso Restrito aos Avaliadores):** :warning:
+- Descrição: Avaliadores têm a capacidade de atualizar o status dos projetos conforme a análise avança.
+- Ações Disponíveis:
+  - Atualizar Status: Alternar entre os status 'Em avaliação', 'Aprovado' e 'Reprovado'.
+  - Visibilidade de Status: Os avaliadores podem visualizar e acompanhar o status atualizado de cada projeto na interface do sistema.
+
+**Segurança e Autenticação:** :warning:
+- JWT: Utilização de JSON Web Tokens para garantir que apenas usuários autenticados possam acessar os recursos do sistema.
+- Criptografia: Armazenamento seguro das senhas usando algoritmos de criptografia robustos.
+- Controle de Acesso: O sistema garante que cada tipo de usuário (administrador ou avaliador) tenha acesso apenas às funcionalidades específicas de acordo com seu perfil, proporcionando um ambiente seguro e controlado.
 
 
 
