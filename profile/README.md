@@ -34,9 +34,9 @@
 :small_blue_diamond: [Casos de Uso](#casos-de-uso-technologist) :heavy_check_mark:
 
 
-:small_blue_diamond: [Banco de dados](/../../../../chat-softex/database) :warning:
+:small_blue_diamond: [Banco de dados](/../../../../chat-softex/database) :heavy_check_mark:
 
-:small_blue_diamond: [BackEnd](/../../../../chat-softex/backend) :x:
+:small_blue_diamond: [BackEnd](/../../../../chat-softex/backend) :warning:
 
 :small_blue_diamond: [Linguagens, tecnologias, dependências e libs utilizadas](#linguagens-tecnologias-dependências-e-libs-utilizadas-hammer_and_wrench-gear-books)
 
