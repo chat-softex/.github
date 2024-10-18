@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
+  <diagram id="wSxafVu_gUWlp7_1Q9i1" name="Página-1">
+    <mxGraphModel dx="1221" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iSHdjGvpZcyVMhjPcS-J-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="45" y="20" width="770" height="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="iXWx9b4LDo3UVRGtMYO1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;curved=0;" parent="1" source="2" target="10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="108" y="670" />
+              <mxPoint x="660" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2" value="&lt;b&gt;Avaliador&lt;/b&gt;" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="390" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="&lt;b&gt;Administrador&lt;/b&gt;" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="665" y="130" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FaspQBWSHrs2VcY_g3el-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="1000" />
+              <mxPoint x="260" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4" value="&lt;b&gt;Sistema de IA (ChatGPT)&lt;/b&gt;" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="950" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Login" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#F9D806;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="370" y="270" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Submeter Projeto" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#F9D806;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="590" y="410" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Visualizar Status do Projeto" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#F9D806;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="580" y="555" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Avaliação Automática de Projetos" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#F9D806;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="960" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Gerar Feedback e Relatórios" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#F9D806;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="780" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Avaliação Métrica dos Projetos" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#F9D806;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="580" y="700" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Gerenciar Usuários" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#F9D806;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="80" y="130" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Cadastrar Usuário" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#F9D806;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="80" y="260" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="2" target="6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="460" />
+              <mxPoint x="250" y="460" />
+              <mxPoint x="250" y="500" />
+              <mxPoint x="320" y="500" />
+              <mxPoint x="320" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" parent="1" source="2" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="460" />
+              <mxPoint x="250" y="500" />
+              <mxPoint x="320" y="500" />
+              <mxPoint x="320" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" parent="1" source="3" target="11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="180" />
+              <mxPoint x="400" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="820" />
+            </Array>
+            <mxPoint x="80" y="490" as="sourcePoint" />
+            <mxPoint x="130" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" value="Usuários podem se autenticar no sistema para acessar suas funções." style="text;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="370" y="350" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="Submete um projeto para ser avaliado automaticamente pelo sistema de IA." style="text;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="590" y="350" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="Permite acompanhar o status atual do projeto submetido." style="text;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="580" y="510" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="Realiza a avaliação automática de projetos com base nos critérios fornecidos." style="text;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="300" y="1040" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="Gera relatórios detalhados com feedback para o avaliador." style="text;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="320" y="710" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="Avalia os projetos automaticamente, fornecendo pontuação com base nos critérios de avaliação." style="text;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="665" y="790" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="15bBW_aNUw76utt5Qg4k-30" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.978;exitY=0.628;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="12" target="5" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="230" y="270" as="sourcePoint" />
+            <mxPoint x="299" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15bBW_aNUw76utt5Qg4k-33" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="1" target="5" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="449.41" as="sourcePoint" />
+            <mxPoint x="280" y="449.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15bBW_aNUw76utt5Qg4k-34" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9" target="8" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="230" y="870" as="sourcePoint" />
+            <mxPoint x="390" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15bBW_aNUw76utt5Qg4k-36" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Sistema Assistente de Avaliação de Projetos de Inovação&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="60" width="710" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rM4MY_68jxXgcPqORQn9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="25" target="25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXWx9b4LDo3UVRGtMYO1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="iXWx9b4LDo3UVRGtMYO1-32" target="10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXWx9b4LDo3UVRGtMYO1-32" value="&lt;b&gt;Sistema de IA Machine Learning&lt;/b&gt;" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="960" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iSHdjGvpZcyVMhjPcS-J-32" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9" target="10" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="290" y="790" as="sourcePoint" />
+            <mxPoint x="440" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaspQBWSHrs2VcY_g3el-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.106;entryY=0.792;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" parent="1" source="4" target="9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="920" />
+              <mxPoint x="309" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaspQBWSHrs2VcY_g3el-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.907;entryY=0.739;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" parent="1" source="iXWx9b4LDo3UVRGtMYO1-32" target="9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="1010" />
+              <mxPoint x="580" y="839" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaspQBWSHrs2VcY_g3el-42" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="11" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="159.5" y="220" as="sourcePoint" />
+            <mxPoint x="160" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaspQBWSHrs2VcY_g3el-43" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="5" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="700" y="260" as="sourcePoint" />
+            <mxPoint x="540" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

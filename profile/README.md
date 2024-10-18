@@ -147,7 +147,7 @@
 
 **Diagrama de Caso de USO (UC) da Aplicação Web para Aavaliação de Projetos de Inovação:**
 
-<img src="3_casos_de_uso_Sistema_Assistente_de_Avaliacao_de_Projetos_de_Inovacao.drawio.png">
+<img src="casos_de_uso_Sistema_Assistente_de_Avaliacao_de_Projetos_de_Inovacao.drawio.png">
 
 ... 
 
