@@ -169,10 +169,13 @@
 - [Fernet - symmetric encryption](https://cryptography.io/en/latest/fernet/)
 - [PyPDF2](https://pypdf2.readthedocs.io/en/3.x/)
 - [PyMuPDF - fitz](https://pymupdf.readthedocs.io/en/latest/)
+- [PDFplumber](https://pypi.org/project/pdfplumber/)
 - [Spacy](https://spacy.io/)
+- [OpenAI API](https://platform.openai.com/docs/overview)
 - [Python-DotEnv](https://pypi.org/project/python-dotenv/)
 - [Flask-CORS](https://flask-cors.readthedocs.io/en/latest/)
 - [Postman](https://learning.postman.com/docs/introduction/overview/)
+- [Insomnia](https://docs.insomnia.rest/insomnia/get-started)
 - [Git](https://git-scm.com/downloads)
 - [GitHub](https://github.com/)
 
