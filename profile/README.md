@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/chat-softex/.github/blob/main/profile/ChatSoftex-logo-sem-bg.png?raw=true" alt="Logo">
+  <img src="https://github.com/chat-softex/.github/blob/main/profile/ChatSoftex-logo.png?raw=true" alt="Logo">
 </p>
 
 
