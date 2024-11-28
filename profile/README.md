@@ -1,24 +1,29 @@
-<h1>Chat Softex</h1> 
+<p align="center">
+  <img src="https://github.com/chat-softex/.github/blob/main/profile/ChatSoftex-logo-sem-bg.png?raw=true" alt="Logo">
+</p>
+
+
+# Chat Softex
 
 <p align="center"> 
-<img src="https://img.shields.io/static/v1?label=Python&message=3.x&color=3776AB&style=for-the-badge&logo=python"/> 
-<img src="https://img.shields.io/static/v1?label=Flask&message=2.x&color=000000&style=for-the-badge&logo=flask"/> 
-<img src="http://img.shields.io/static/v1?label=Draw.io&message=24.6.4&color=f08705&style=for-the-badge&logo=diagramsdotnet"/> 
-<img src="http://img.shields.io/static/v1?label=Firebase&message=10.13.0&color=DD2C00&style=for-the-badge&logo=firebase"/> 
-<img src="http://img.shields.io/static/v1?label=PostgreSQL&message=16&color=4169e1&style=for-the-badge&logo=postgresql&logoColor=f5f5f5"/> 
-<img src="http://img.shields.io/static/v1?label=Workbench%20MySQL&message=8.0.38&color=4479a1&style=for-the-badge&logo=mysql&logoColor=f5f5f5"/> 
-<img src="http://img.shields.io/static/v1?label=SQLAlchemy&message=2.x&color=2d3748&style=for-the-badge&logo=sqlalchemy"/> 
-<img src="http://img.shields.io/static/v1?label=PyJWT&message=2.x&color=000000&style=for-the-badge&logo=jsonwebtokens"/> 
-<img src="http://img.shields.io/static/v1?label=Cryptography&message=40.0.2&color=2b2b2b&style=for-the-badge&logo=cryptography"/> 
-<img src="http://img.shields.io/static/v1?label=PyPDF2&message=3.x&color=blue&style=for-the-badge&logo=pypdf"/> 
-<img src="http://img.shields.io/static/v1?label=Spacy&message=3.x&color=09A3D5&style=for-the-badge&logo=spacy"/> 
-<img src="http://img.shields.io/static/v1?label=Python-DotEnv&message=1.x&color=ECD53F&style=for-the-badge&logo=dotenv"/> 
-<img src="http://img.shields.io/static/v1?label=Flask-CORS&message=3.x&color=000000&style=for-the-badge&logo=cors"/> 
-<img src="http://img.shields.io/static/v1?label=Postman&message=10.16.2&color=FF6C37&style=for-the-badge&logo=postman"/> 
-<img src="http://img.shields.io/static/v1?label=Git&message=2.45.2&color=f05032&style=for-the-badge&logo=git"/> 
-<img src="http://img.shields.io/static/v1?label=GitHub&message=2024&color=181717&style=for-the-badge&logo=github"/> 
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=for-the-badge"/> 
-<img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/> 
+  <img src="https://img.shields.io/static/v1?label=Python&message=3.x&color=3776AB&style=for-the-badge&logo=python"/> 
+  <img src="https://img.shields.io/static/v1?label=Flask&message=2.x&color=000000&style=for-the-badge&logo=flask"/> 
+  <img src="http://img.shields.io/static/v1?label=Draw.io&message=24.6.4&color=f08705&style=for-the-badge&logo=diagramsdotnet"/> 
+  <img src="http://img.shields.io/static/v1?label=Firebase&message=10.13.0&color=DD2C00&style=for-the-badge&logo=firebase"/> 
+  <img src="http://img.shields.io/static/v1?label=PostgreSQL&message=16&color=4169e1&style=for-the-badge&logo=postgresql&logoColor=f5f5f5"/> 
+  <img src="http://img.shields.io/static/v1?label=Workbench%20MySQL&message=8.0.38&color=4479a1&style=for-the-badge&logo=mysql&logoColor=f5f5f5"/> 
+  <img src="http://img.shields.io/static/v1?label=SQLAlchemy&message=2.x&color=2d3748&style=for-the-badge&logo=sqlalchemy"/> 
+  <img src="http://img.shields.io/static/v1?label=PyJWT&message=2.x&color=000000&style=for-the-badge&logo=jsonwebtokens"/> 
+  <img src="http://img.shields.io/static/v1?label=Cryptography&message=40.0.2&color=2b2b2b&style=for-the-badge&logo=cryptography"/> 
+  <img src="http://img.shields.io/static/v1?label=PyPDF2&message=3.x&color=blue&style=for-the-badge&logo=pypdf"/> 
+  <img src="http://img.shields.io/static/v1?label=Spacy&message=3.x&color=09A3D5&style=for-the-badge&logo=spacy"/> 
+  <img src="http://img.shields.io/static/v1?label=Python-DotEnv&message=1.x&color=ECD53F&style=for-the-badge&logo=dotenv"/> 
+  <img src="http://img.shields.io/static/v1?label=Flask-CORS&message=3.x&color=000000&style=for-the-badge&logo=cors"/> 
+  <img src="http://img.shields.io/static/v1?label=Postman&message=10.16.2&color=FF6C37&style=for-the-badge&logo=postman"/> 
+  <img src="http://img.shields.io/static/v1?label=Git&message=2.45.2&color=f05032&style=for-the-badge&logo=git"/> 
+  <img src="http://img.shields.io/static/v1?label=GitHub&message=2024&color=181717&style=for-the-badge&logo=github"/> 
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=for-the-badge"/> 
+  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/> 
 </p>
 
 > Status do Projeto: :heavy_check_mark: (concluido) | :warning: (em desenvolvimento) | :x: (não iniciada)
