@@ -166,6 +166,10 @@
   </a>
 </p>
 
+<p align="center">
+  <em>Clique na imagem acima para visualizar a apresentação completa.</em>
+</p>
+
 ---
 
 ## Linguagens, tecnologias, dependências e libs utilizadas :hammer_and_wrench: :gear: :books:
