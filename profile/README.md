@@ -160,9 +160,8 @@
 
 ## Pitch do Projeto :bar_chart:
 
-<p align="center">
-  <iframe src="https://chat-softex.github.io/.github/profile/Chat-Softex-Apresentacao-MVP.pptx.pdf" width="100%" height="500px"></iframe>
-</p>
+[Clique aqui para visualizar a apresentação](https://chat-softex.github.io/.github/profile/Chat-Softex-Apresentacao-MVP.pptx.pdf)
+
 
 ---
 
