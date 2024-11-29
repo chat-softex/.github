@@ -161,7 +161,7 @@
 ## Pitch do Projeto :bar_chart:
 
 <p align="center">
-  <iframe src="https://drive.google.com/file/d/17AbjbThFKZOS8k6-TP3Qb4_v4Fj7RS_O/preview" width="100%" height="500px"></iframe>
+  <iframe src="https://chat-softex.github.io/.github/profile/Chat-Softex-Apresentacao-MVP.pptx.pdf" width="100%" height="500px"></iframe>
 </p>
 
 ---
