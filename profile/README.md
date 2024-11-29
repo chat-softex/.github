@@ -172,6 +172,19 @@
 
 ---
 
+## API Rest Chat-Softex em Funcionamento 🎥
+
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=hWLShA_FiEg" frameborder="0" allowfullscreen></iframe>
+</p>
+
+
+<p align="center">
+  <em>Veja como a API Rest do Chat Softex funciona em tempo real, com exemplos práticos de suas principais funcionalidades.</em>
+</p>
+
+---
+
 ## Linguagens, tecnologias, dependências e libs utilizadas :hammer_and_wrench: :gear: :books:
 
 
