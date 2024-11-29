@@ -161,8 +161,8 @@
 ## Pitch do Projeto :bar_chart:
 
 <p align="center">
-  <a href="https://chat-softex.github.io/.github/profile/Chat-Softex-Apresentacao-MVP.pptx.pdf" target="_blank">
-    <img src="https://chat-softex.github.io/.github/profile/slide1.png" alt="Apresentação Chat Softex" width="600">
+  <a href="https://chat-softex.github.io/.github/profile/Chat-Softex-Apresentacao-MVP.pdf" target="_blank">
+    <img src="https://chat-softex.github.io/.github/profile/Chat-Softex-Apresentacao-MVP.png" alt="Apresentação Chat Softex" width="600">
   </a>
 </p>
 
