@@ -175,12 +175,13 @@
 ## API Rest Chat-Softex em Funcionamento 🎥
 
 <p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=hWLShA_FiEg" frameborder="0" allowfullscreen></iframe>
+  <a href="https://www.youtube.com/watch?v=hWLShA_FiEg" target="_blank">
+    <img src="profile/capa_video_executando_funcionamento_API-Chat-Softex.png" alt="Demonstração da API Rest Chat-Softex" width="600">
+  </a>
 </p>
 
-
 <p align="center">
-  <em>Veja como a API Rest do Chat Softex funciona em tempo real, com exemplos práticos de suas principais funcionalidades.</em>
+  <em>Clique na imagem acima para assistir ao vídeo de demonstração no YouTube.</em>
 </p>
 
 ---
