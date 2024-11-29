@@ -176,7 +176,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=hWLShA_FiEg" target="_blank">
-    <img src="profile/capa_video_executando_funcionamento_API-Chat-Softex.png" alt="Demonstração da API Rest Chat-Softex" width="600">
+    <img src="https://chat-softex.github.io/.github/profile/capa_video_executando_funcionamento_API-Chat-Softex.png" alt="Demonstração da API Rest Chat-Softex" width="600">
   </a>
 </p>
 
