@@ -47,7 +47,7 @@
 
 :small_blue_diamond: [Desenvolvedores/Contribuintes](#desenvolvedorescontribuintes-octocat)
 
-... 
+--- 
 
 ## Descrição do projeto :writing_hand:
 
@@ -55,6 +55,7 @@
   Automatizar e agilizar o processo de avaliação de projetos de inovação submetidos à banca avaliadora, utilizando critérios padronizados com base na Lei do Bem e integrando ferramentas de inteligência artificial para fornecer insights e recomendações. O objetivo é otimizar a tomada de decisões, melhorar a eficiência do processo de avaliação e garantir que os projetos estejam em conformidade com os requisitos legais e de inovação, promovendo uma análise mais objetiva e rápida. 
 </p>
 
+---
 
 ## Objetivos do projeto :dart:
 
@@ -101,6 +102,7 @@
 - Assegurar que o processo de avaliação seja transparente, auditável e com registros detalhados de todas as etapas, garantindo a integridade do processo e a confiança da banca avaliadora.
 </p>
 
+---
 
 ## Funcionalidades :video_game:
 
@@ -146,7 +148,7 @@
 - Criptografia: Armazenamento seguro das senhas usando algoritmos de criptografia robustos.
 - Controle de Acesso: O sistema garante que cada tipo de usuário (administrador ou avaliador) tenha acesso apenas às funcionalidades específicas de acordo com seu perfil, proporcionando um ambiente seguro e controlado.
 
-
+---
 
 ## Casos de Uso :technologist:
 
@@ -154,9 +156,15 @@
 
 <img src="casos_de_uso_Sistema_Assistente_de_Avaliacao_de_Projetos_de_Inovacao.drawio.png">
 
-... 
+---
 
+## Pitch do Projeto :bar_chart:
 
+<p align="center">
+  <iframe src="https://drive.google.com/file/d/17AbjbThFKZOS8k6-TP3Qb4_v4Fj7RS_O/view?usp=sharing" width="100%" height="500px"></iframe>
+</p>
+
+---
 
 ## Linguagens, tecnologias, dependências e libs utilizadas :hammer_and_wrench: :gear: :books:
 
@@ -184,7 +192,7 @@
 - [Git](https://git-scm.com/downloads)
 - [GitHub](https://github.com/)
 
-...
+---
 
 ## Desenvolvedores/Contribuintes :octocat:
 
