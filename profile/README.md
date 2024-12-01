@@ -158,7 +158,7 @@
 
 ---
 
-## Pitch do Projeto :bar_chart:
+## Pitch do Projeto 🎥
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=W420PvQpKfA" target="_blank">
