@@ -161,7 +161,7 @@
 ## Pitch do Projeto 🎥
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=W420PvQpKfA" target="_blank">
+  <a href="https://www.youtube.com/watch?v=6FH1q4yr1eI" target="_blank">
     <img src="https://chat-softex.github.io/.github/profile/capa_Pitch_ChatSoftex.png" alt="Pitch ChatSoftex" width="600">
   </a>
 </p>
