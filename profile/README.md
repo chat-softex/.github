@@ -188,7 +188,6 @@
 
 ## Linguagens, tecnologias, dependências e libs utilizadas :hammer_and_wrench: :gear: :books:
 
-
 - [Python](https://docs.python.org/pt-br/3/)
 - [Flask](https://flask-ptbr.readthedocs.io/en/latest/)
 - [Draw.io](https://www.drawio.com/)
@@ -220,7 +219,7 @@ Time responsável pelo desenvolvimento do projeto
 | [<img src="https://avatars.githubusercontent.com/u/130801505?v=4" width=115><br><sub>Francis Lauriano</sub>](https://github.com/FrancisLauriano) | [<img src="https://avatars.githubusercontent.com/u/109644254?v=4" width=115><br><sub>Higor Luna</sub>](https://github.com/higorluna) | [<img src="https://avatars.githubusercontent.com/u/151203352?v=4" width=115><br><sub>Lucas Adriano</sub>](https://github.com/lucas21903)  | [<img src="https://avatars.githubusercontent.com/u/5248397?v=4" width=115><br><sub>Luiz Henrique</sub>](https://github.com/anexoluiz) | [<img src="https://avatars.githubusercontent.com/u/184429044?v=4" width=115><br><sub>Luiz Primo</sub>](https://github.com/Lu1zPrim0) | [<img src="https://avatars.githubusercontent.com/u/113798317?v=4" width=115><br><sub>Nikolas Martins</sub>](https://github.com/Salokled) 
 | :---: | :---: | :---: | :---: | :---: | :---: 
 
-
+---
 
 ## Licença 
 
