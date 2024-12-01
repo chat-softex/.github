@@ -3,7 +3,7 @@
 </p>
 
 
-# Chat Softex
+# ChatSoftex
 
 <p align="center"> 
   <img src="https://img.shields.io/static/v1?label=Python&message=3.x&color=3776AB&style=for-the-badge&logo=python"/> 
@@ -161,18 +161,18 @@
 ## Pitch do Projeto :bar_chart:
 
 <p align="center">
-  <a href="https://chat-softex.github.io/.github/profile/Chat-Softex-Apresentacao-MVP.pdf" target="_blank">
-    <img src="https://chat-softex.github.io/.github/profile/Chat-Softex-Capa-Apresentacao-MVP.png" alt="Apresentação Chat Softex" width="600">
+  <a href="https://www.youtube.com/watch?v=W420PvQpKfA" target="_blank">
+    <img src="https://chat-softex.github.io/.github/profile/capa_Pitch_ChatSoftex.png" alt="Pitch ChatSoftex" width="600">
   </a>
 </p>
 
 <p align="center">
-  <em>Clique na imagem acima para visualizar a apresentação completa.</em>
+  <em>Clique na imagem acima para assistir ao vídeo do Pitch no YouTube.</em>
 </p>
 
 ---
 
-## API Rest Chat-Softex em Funcionamento 🎥
+## API Rest ChatSoftex em Funcionamento 🎥
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=hWLShA_FiEg" target="_blank">
@@ -226,4 +226,4 @@ Time responsável pelo desenvolvimento do projeto
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2024 - Chat Softex
+Copyright :copyright: 2024 - ChatSoftex
