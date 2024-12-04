@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/chat-softex/.github/blob/main/profile/ChatSoftex-logo.png?raw=true" alt="Logo">
+  <img src="https://github.com/chat-softex/.github/blob/main/img/ChatSoftex_Logo_1079x329.png?raw=true" alt="Logo">
 </p>
 
 
@@ -154,7 +154,7 @@
 
 **Diagrama de Caso de USO (UC) da Aplicação Web para Aavaliação de Projetos de Inovação:**
 
-<img src="casos_de_uso_Sistema_Assistente_de_Avaliacao_de_Projetos_de_Inovacao.drawio.png">
+<img src="https://github.com/chat-softex/.github/blob/main/doc/diagrama_casos_de_uso_ChatSoftex.drawio.png">
 
 ---
 
