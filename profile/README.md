@@ -42,9 +42,11 @@
 
 :small_blue_diamond: [Demonstração da API Rest ChatSoftex](#demonstração-da-api-rest-chatsoftex-movie_camera) :heavy_check_mark:
 
-:small_blue_diamond: [Clonar Repositório](#clonar-repositório-file_folder-arrow_right-file_folder) :heavy_check_mark:
+:small_blue_diamond: [Clonar Repositório](#clonar-repositório-file_folder-arrow_right-file_folder)
 
-:small_blue_diamond: [Contribuições](#contribuições-technologist) :heavy_check_mark:
+:small_blue_diamond: [Contribuições](#contribuições-speech_balloon) 
+
+:small_blue_diamond: [Melhorias Futuras](#melhorias-futuras-rocket) 
 
 :small_blue_diamond: [Banco de dados](/../../../../chat-softex/database) :heavy_check_mark:
 
@@ -196,12 +198,12 @@
 ## Clonar Repositório :file_folder: :arrow_right: :file_folder:
 
 ```bash
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 
 ---
 
-## Contribuições :technologist:
+## Contribuições :speech_balloon:
 
 **Contribuições são bem-vindas! Se você deseja contribuir com melhorias ou correções para o projeto, basta seguir estes passos:**
 
@@ -210,6 +212,15 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 - Faça commit das suas alterações (git commit -m 'Adiciona nova funcionalidade').
 - Envie para o repositório remoto (git push origin feat/nova-funcionalidade).
 - Crie um pull request.
+
+---
+
+## Melhorias Futuras :rocket:
+<br>
+
+> [!Note]\
+>  Na segunda etapa do projeto deverá ser desenvolvida melhorias baseadas em Machine Learning.
+<br>
 
 ---
 
