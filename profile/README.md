@@ -38,6 +38,13 @@
 
 :small_blue_diamond: [Casos de Uso](#casos-de-uso-technologist) :heavy_check_mark:
 
+:small_blue_diamond: [Vídeo Promocional - Pitch do Projeto](#vídeo-promocional---pitch-do-projeto-movie_camera) :heavy_check_mark:
+
+:small_blue_diamond: [Demonstração da API Rest ChatSoftex](#demonstração-da-api-rest-chatsoftex-movie_camera) :heavy_check_mark:
+
+:small_blue_diamond: [Clonar Repositório](#clonar-repositório-file_folder-arrow_right-file_folder) :heavy_check_mark:
+
+:small_blue_diamond: [Contribuições](#contribuições-technologist) :heavy_check_mark:
 
 :small_blue_diamond: [Banco de dados](/../../../../chat-softex/database) :heavy_check_mark:
 
@@ -158,7 +165,7 @@
 
 ---
 
-## Pitch do Projeto 🎥
+## Vídeo Promocional - Pitch do Projeto :movie_camera:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=6FH1q4yr1eI" target="_blank">
@@ -172,7 +179,7 @@
 
 ---
 
-## API Rest ChatSoftex em Funcionamento 🎥
+## Demonstração da API Rest ChatSoftex :movie_camera:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=hWLShA_FiEg" target="_blank">
@@ -183,6 +190,26 @@
 <p align="center">
   <em>Clique na imagem acima para assistir ao vídeo de demonstração no YouTube.</em>
 </p>
+
+---
+
+## Clonar Repositório :file_folder: :arrow_right: :file_folder:
+
+```bash
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+
+---
+
+## Contribuições :technologist:
+
+**Contribuições são bem-vindas! Se você deseja contribuir com melhorias ou correções para o projeto, basta seguir estes passos:**
+
+- Faça um fork do projeto.
+- Crie uma branch para sua nova funcionalidade (git checkout -b feat/nova-funcionalidade).
+- Faça commit das suas alterações (git commit -m 'Adiciona nova funcionalidade').
+- Envie para o repositório remoto (git push origin feat/nova-funcionalidade).
+- Crie um pull request.
 
 ---
 
