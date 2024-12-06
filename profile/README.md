@@ -62,6 +62,8 @@
 
 <p align="justify">
   Automatizar e agilizar o processo de avaliação de projetos de inovação submetidos à banca avaliadora, utilizando critérios padronizados com base na Lei do Bem e integrando ferramentas de inteligência artificial para fornecer insights e recomendações. O objetivo é otimizar a tomada de decisões, melhorar a eficiência do processo de avaliação e garantir que os projetos estejam em conformidade com os requisitos legais e de inovação, promovendo uma análise mais objetiva e rápida. 
+  
+  Na primeira fase, já concluída, foi implementada a integração com a API OpenAI e aplicadas técnicas de prompt engineering para gerar insights automáticos. Na segunda etapa, será aplicada a implementação de técnicas de machine learning utilizando bibliotecas como PyTorch, TensorFlow, Scikit-learn e Hugging Face Transformers, visando aprimorar ainda mais a análise e a precisão das avaliações.
 </p>
 
 ---
@@ -219,7 +221,7 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 <br>
 
 > [!Note]\
->  Na segunda etapa do projeto deverá ser desenvolvida melhorias baseadas em Machine Learning.
+> Na segunda etapa do projeto será aplicada a implementação de técnicas de machine learning utilizando bibliotecas como PyTorch, TensorFlow, Scikit-learn e Hugging Face Transformers, visando aprimorar ainda mais a análise e a precisão das avaliações.
 <br>
 
 ---
