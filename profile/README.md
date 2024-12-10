@@ -61,9 +61,13 @@
 ## Descrição do projeto :writing_hand:
 
 <p align="justify">
-  Automatizar e agilizar o processo de avaliação de projetos de inovação submetidos à banca avaliadora, utilizando critérios padronizados com base na Lei do Bem e integrando ferramentas de inteligência artificial para fornecer insights e recomendações. O objetivo é otimizar a tomada de decisões, melhorar a eficiência do processo de avaliação e garantir que os projetos estejam em conformidade com os requisitos legais e de inovação, promovendo uma análise mais objetiva e rápida. 
+  Automatizar e agilizar o processo de avaliação de projetos de inovação tecnológica submetidos à banca avaliadora, utilizando critérios padronizados com base na Lei do Bem e integrando ferramentas de inteligência artificial para fornecer insights e recomendações. 
   
-  Na primeira fase, já concluída, foi implementada a integração com a API OpenAI e aplicadas técnicas de prompt engineering para gerar insights automáticos. Na segunda etapa, será aplicada a implementação de técnicas de machine learning utilizando bibliotecas como PyTorch, TensorFlow, Scikit-learn e Hugging Face Transformers, visando aprimorar ainda mais a análise e a precisão das avaliações.
+  O objetivo é otimizar a tomada de decisões, melhorar a eficiência do processo de avaliação e garantir que os projetos estejam em conformidade com os requisitos legais e de inovação, promovendo uma análise mais objetiva e rápida. 
+  
+  Na primeira fase, já concluída, foi implementada a integração com a API OpenAI e aplicadas técnicas de prompt engineering para gerar insights automáticos. 
+  
+  Na segunda etapa, será aplicada a implementação de técnicas de machine learning utilizando bibliotecas como PyTorch, TensorFlow, Scikit-learn e Hugging Face Transformers, visando aprimorar ainda mais a análise e a precisão das avaliações.
 </p>
 
 ---
@@ -231,28 +235,29 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 - [Python](https://docs.python.org/pt-br/3/)
 - [Flask](https://flask-ptbr.readthedocs.io/en/latest/)
 - [Draw.io](https://www.drawio.com/)
-- [Firebase](https://firebase.google.com/)
 - [PostgreSQL](https://www.postgresql.org/download/)
-- [Workbench MySQL](https://dev.mysql.com/downloads/workbench/)
 - [SQLAlchemy](https://docs.sqlalchemy.org/en/20/s)
+- [Firebase](https://firebase.google.com/)
 - [PyJWT](https://pyjwt.readthedocs.io/en/stable/)
 - [Flask-JWT-Extended](https://flask-jwt-extended.readthedocs.io/en/latest/)
 - [Cryptography](https://pypi.org/project/cryptography/)
 - [Fernet - symmetric encryption](https://cryptography.io/en/latest/fernet/)
+- [Python-DotEnv](https://pypi.org/project/python-dotenv/)
+- [Flask-CORS](https://flask-cors.readthedocs.io/en/latest/)
 - [PyPDF2](https://pypdf2.readthedocs.io/en/3.x/)
 - [PyMuPDF - fitz](https://pymupdf.readthedocs.io/en/latest/)
 - [PDFplumber](https://pypi.org/project/pdfplumber/)
+- [Marshmallow](https://marshmallow.readthedocs.io/en/stable/)
 - [Spacy](https://spacy.io/)
 - [OpenAI API](https://platform.openai.com/docs/overview)
+- [NumPy](https://numpy.org/doc/)
 - [SciPy](https://scipy.org/)
 - [TensorFlow](https://www.tensorflow.org/?hl=pt-br)
 - [Hugging Face Transformers](https://huggingface.co/docs)
 - [PyTorch](https://pytorch.org/docs/stable/index.html)
 - [Scikit-Learn](https://scikit-learn.org/0.21/documentation.html)
-- [NumPy](https://numpy.org/doc/)
-- [Python-DotEnv](https://pypi.org/project/python-dotenv/)
-- [Flask-CORS](https://flask-cors.readthedocs.io/en/latest/)
 - [Postman](https://learning.postman.com/docs/introduction/overview/)
+- [Swagger](https://swagger.io/)
 - [Insomnia](https://docs.insomnia.rest/insomnia/get-started)
 - [Git](https://git-scm.com/downloads)
 - [GitHub](https://github.com/)
