@@ -267,9 +267,110 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ## Desenvolvedores/Contribuintes :octocat:
 
 Time responsável pelo desenvolvimento do projeto
-| [<img src="https://avatars.githubusercontent.com/u/130801505?v=4" width=115><br><sub>Francis Lauriano</sub>](https://github.com/FrancisLauriano) | [<img src="https://avatars.githubusercontent.com/u/109644254?v=4" width=115><br><sub>Higor Luna</sub>](https://github.com/higorluna) | [<img src="https://avatars.githubusercontent.com/u/151203352?v=4" width=115><br><sub>Lucas Adriano</sub>](https://github.com/lucas21903)  | [<img src="https://avatars.githubusercontent.com/u/5248397?v=4" width=115><br><sub>Luiz Henrique</sub>](https://github.com/anexoluiz) | [<img src="https://avatars.githubusercontent.com/u/184429044?v=4" width=115><br><sub>Luiz Primo</sub>](https://github.com/Lu1zPrim0) | [<img src="https://avatars.githubusercontent.com/u/113798317?v=4" width=115><br><sub>Nikolas Martins</sub>](https://github.com/Salokled) 
-| :---: | :---: | :---: | :---: | :---: | :---: 
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/francis-lauriano-9b674a27b/">
+        <img src="https://avatars.githubusercontent.com/u/130801505?v=4" width="115px;" alt="Francis Lauriano Profile Image"/><br>
+      </a>
+      <sub>
+          <b>Francis Lauriano</b>
+         </sub>
+    <br>
+        <a href="https://github.com/FrancisLauriano">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/francis-lauriano-9b674a27b/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/higor-luna/">
+        <img src="https://avatars.githubusercontent.com/u/109644254?v=4" width="115px;" alt="Higor Luna Profile Image"/><br>
+      </a>
+      <sub>
+          <b>Higor Luna</b>
+         </sub>
+    <br>
+        <a href="https://github.com/higorluna">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/higor-luna/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/lucas-adriano-304b4b1b7/">
+        <img src="https://avatars.githubusercontent.com/u/151203352?v=4" width="115px;" alt="Lucas Adriano Profile Image"/><br>
+      </a>
+      <sub>
+          <b>Adriano Lucas</b>
+         </sub>
+    <br>
+        <a href="https://github.com/lucas21903">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/lucas-adriano-304b4b1b7/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/anexoluiz/">
+        <img src="https://avatars.githubusercontent.com/u/5248397?v=4" width="115px;" alt="Luiz Henrique Profile Image"/><br>
+      </a>
+      <sub>
+          <b>Luiz Henrique</b>
+         </sub>
+    <br>
+        <a href="https://github.com/anexoluiz">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/anexoluiz/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/luiz-primo-314625146/">
+        <img src="https://avatars.githubusercontent.com/u/184429044?v=4" width="115px;" alt="Luiz Primo Profile Image"/><br>
+      </a>
+      <sub>
+          <b>Luiz Primo</b>
+         </sub>
+    <br>
+        <a href="https://github.com/Lu1zPrim0">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/luiz-primo-314625146/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/nikolas-messias-martins-a1a072236/">
+        <img src="https://avatars.githubusercontent.com/u/113798317?v=4" width="115px;" alt="Nikolas Martins Profile Image"/><br>
+      </a>
+      <sub>
+          <b>Nikolas Martins</b>
+         </sub>
+    <br>
+        <a href="https://github.com/Salokled">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/nikolas-messias-martins-a1a072236/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </td>
+    
+    
+  </tr>
+</table>
+ 
 ---
 
 ## Licença 
