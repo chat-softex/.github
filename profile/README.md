@@ -307,7 +307,7 @@ Time responsável pelo desenvolvimento do projeto
         <img src="https://avatars.githubusercontent.com/u/151203352?v=4" width="115px;" alt="Lucas Adriano Profile Image"/><br>
       </a>
       <sub>
-          <b>Adriano Lucas</b>
+          <b>Lucas Adriano</b>
          </sub>
     <br>
         <a href="https://github.com/lucas21903">
